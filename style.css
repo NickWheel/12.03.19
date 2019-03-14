@@ -52,5 +52,6 @@ p {
 @media (max-width: 800px) {
     .first, .second, .third {
         position: relative;
+        margin-top: 15px;
     } 
 }
